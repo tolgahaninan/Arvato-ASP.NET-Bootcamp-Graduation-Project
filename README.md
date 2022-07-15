@@ -13,8 +13,8 @@
 
 #### Description 
 
-This is a Web API Project with 4 different kind of end points.
-Dataset which is used can be added with following link.  
+This is a Web API Project with 4 different kind of end points.  
+Dataset which is used can be added with following link.    
 [Dataset Scripts](https://drive.google.com/drive/folders/1lELrjMu_1s8bmn4vDUXqH3Zgg3zmw61O?usp=sharing).
 
 ## Genres
