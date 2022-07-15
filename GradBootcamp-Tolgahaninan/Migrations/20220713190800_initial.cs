@@ -22,7 +22,7 @@ namespace GradBootcamp_Tolgahaninan.Migrations
                     table.PrimaryKey("PK_genres", x => x.id);
                 });
 
-      /*      migrationBuilder.CreateTable(
+           migrationBuilder.CreateTable(
                 name: "mytable",
                 columns: table => new
                 {
@@ -56,7 +56,7 @@ namespace GradBootcamp_Tolgahaninan.Migrations
                 {
                     table.PrimaryKey("PK_mytable", x => x.id);
                 });
-      */
+     
             migrationBuilder.CreateTable(
                 name: "users",
                 columns: table => new
